@@ -1,0 +1,10 @@
+using UnityEngine;
+
+namespace Seti
+{
+    public enum $ENUM$
+    {
+        None = -1,
+        $DATA$
+    }
+}
